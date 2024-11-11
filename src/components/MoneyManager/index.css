@@ -1,0 +1,15 @@
+/* Write your CSS here */
+
+.bg-container {
+  padding: 12px;
+  align-items: center;
+}
+
+.profile-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  background-size: cover;
+  padding: 15px;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 50px;
+}
